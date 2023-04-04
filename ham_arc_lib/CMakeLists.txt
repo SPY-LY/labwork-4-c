@@ -1,0 +1,1 @@
+add_library(ham_arc HamArc.cpp HamArc.h HammingEncoder.cpp HammingEncoder.h ArchiveManipulator.cpp ArchiveManipulator.h HamArcErrorChecker.cpp HamArcErrorChecker.h)
